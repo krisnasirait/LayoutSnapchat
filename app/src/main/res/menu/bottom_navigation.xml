@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/icon_location"
+        android:menuCategory="secondary"
+        android:title="Map" />
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/icon_chat"
+        android:menuCategory="secondary"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_camera"
+        android:menuCategory="secondary"
+        android:title="Camera" />
+
+    <item
+        android:id="@+id/people"
+        android:icon="@drawable/ic_people"
+        android:menuCategory="secondary"
+        android:title="People" />
+
+    <item
+        android:id="@+id/spotlight"
+        android:icon="@drawable/ic_spotlight"
+        android:menuCategory="secondary"
+        android:title="Spotlight" />
+</menu>
